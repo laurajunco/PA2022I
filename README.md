@@ -1,1 +1,5 @@
 # PA2022I
+
+Código de ejemplo para la clase PENSAMIENTO ALGORÍTMICO
+DISO-2401
+202210
