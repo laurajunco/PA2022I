@@ -18,7 +18,6 @@ int p1y = 500;
 int p2x = 700;
 int p2y = 500;
 
-
 //punto control 1
 int c1x = 10;
 int c1y = 10;

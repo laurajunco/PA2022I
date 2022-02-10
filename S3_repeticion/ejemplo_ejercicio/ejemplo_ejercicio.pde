@@ -1,9 +1,13 @@
+//Ejemplo ejercicio E3 repetición
+//Pensamiento algorítmico 2022-I
+
 size(1000, 1000);
 background(255);
 fill(0);
 noStroke();
 
-int ancho = 40; //ancho de los triangulos
+//ancho de los triangulos
+int ancho = 40;
 
 //triangulos negros
 for (int y = 0; y < height; y+=ancho) {

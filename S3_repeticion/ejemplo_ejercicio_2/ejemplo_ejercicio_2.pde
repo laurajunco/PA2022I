@@ -1,3 +1,6 @@
+//Ejemplo ejercicio E3 repetición
+//Pensamiento algorítmico 2022-I
+
 size(500, 500);
 noStroke();
 

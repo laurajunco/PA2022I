@@ -1,3 +1,7 @@
+//Ejemplo repetición anidada
+//Pensamiento algorítmico 2022-I
+//https://processing.org/reference/for.html
+
 size(850, 850);
 background (255);
 

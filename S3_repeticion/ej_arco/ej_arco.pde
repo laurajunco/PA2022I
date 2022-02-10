@@ -1,7 +1,6 @@
-/* Ejempo arco 
-* Pensamiento algorítmico 2022-I
-* https://processing.org/reference/arc_.html
-*/
+//Ejempo arco 
+//Pensamiento algorítmico 2022-I
+//https://processing.org/reference/arc_.html
 
 size(800, 800); //crear un lienzo
 background(255); //color de fondo del lienzo
